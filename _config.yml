@@ -31,7 +31,7 @@ author:
   email            : "tcgonzal@andrew.cmu.edu" 
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/math?query=Gonz%C3%A1lez%2C+Tom%C3%A1s&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+  arxiv            : #"https://arxiv.org/search/math?query=Gonz%C3%A1lez%2C+Tom%C3%A1s&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7tDv1j4AAAAJ"
   impactstory      : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/tomas-gonzalez-lara"
+  linkedin         : "tomas-gonzalez-lara"
   # Username
   mastodon         : # URL
   medium           : # URL
