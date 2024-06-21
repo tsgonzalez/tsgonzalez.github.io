@@ -24,9 +24,9 @@ author:
   avatar           : "foto_linkedin.jpeg"
   name             : "Tomas Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
-  location         : "Pittsburgh"
-  employer         : "Carnegie Mellon University"
+  bio              : "Machine Learning Department, Carnegie Mellon University"
+  location         : #"Pittsburgh"
+  employer         : #"Carnegie Mellon University"
   uri              : # URL
   email            : "tcgonzal@andrew.cmu.edu" 
 
