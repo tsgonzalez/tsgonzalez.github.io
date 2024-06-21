@@ -1,6 +1,9 @@
 # main links links
 main:
 
+   - title: "Publications"
+     url: https://scholar.google.com/citations?hl=en&user=7tDv1j4AAAAJ
+     
    - title: "CV"
      url: /files/CV.pdf
   # - title: "Publications"
