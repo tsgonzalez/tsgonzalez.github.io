@@ -21,7 +21,7 @@ repository               : "tsgonzalez/tsgonzalez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_linkedin.jpeg"
   name             : "Tomas Gonzalez"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
