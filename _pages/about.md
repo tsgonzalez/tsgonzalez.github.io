@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in [Machine Learning at Carnegie Mellon University]([https://duckduckgo.com](https://www.ml.cmu.edu/)), where I am co-advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/) and [Giulia Fanti](https://gfanti.github.io/). Previously, I obtained my MSc in Engineering from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) of the Catholic University of Chile, under the supervision of [Cristobal Guzman](https://sites.google.com/view/cguzman/). Before that, I got a Mathematical Engineering degree from the same institution. I was also a Student Researcher at Google Deepmind working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html) in 2022-23.
+I’m a PhD student in the [Machine Learning Department]([https://duckduckgo.com](https://www.ml.cmu.edu/)) at Carnegie Mellon University, where I am co-advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/) and [Giulia Fanti](https://gfanti.github.io/). Previously, I obtained my MSc in Engineering from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) of the Catholic University of Chile, under the supervision of [Cristobal Guzman](https://sites.google.com/view/cguzman/). Before that, I was an undergraduate at the same institution. 
+
+I was a Student Researcher at Google Deepmind working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html) in 2022-23.
 
 <h1>Research</h1>
 
