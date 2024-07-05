@@ -13,6 +13,6 @@ In 2022-23, I was a Student Researcher at Google Deepmind working with [Courtney
 
 <h1>Research</h1>
 
-I work in theoretical aspects of machine learning and optimization. My topics of interest include -but are not limited to- stochatistic optimization and privacy-preserving ML.
+I work on theoretical aspects of machine learning and optimization. 
 
 
