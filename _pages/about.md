@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,19 +13,19 @@ In 2022-23, I was a Student Researcher at Google Deepmind working with [Courtney
 
 <h1>Research</h1>
 
-I work on theoretical aspects of machine learning and optimization. 
+I work on theoretical and algorithmic aspects of machine learning and optimization. 
 
-<h1>Pre-prints</h1>
+<h1>Preprints</h1>
 <ul>
   <li>
     <strong>Sequentially Auditing Differential Privacy</strong><br>
     Tomas Gonzalez, Mateo Dulce-Rubio, Aaditya Ramdas, Monica Ribero<br>
-    <em>Submitted 2025</em><br>
+    <em>Submitted</em><br>
   </li> 
   <li>
     <strong>Private Evolution Converges</strong><br>
     Tomas Gonzalez, Giulia Fanti, Aaditya Ramdas<br>
-    <em>Submitted 2025 <a href="https://arxiv.org/abs/2405.18973" target="_blank">[ArXiv]</a> </em><br>
+    <em>Submitted <a href="https://arxiv.org/abs/2405.18973" target="_blank">[ArXiv]</a> </em><br>
     
   </li>
 </ul>
