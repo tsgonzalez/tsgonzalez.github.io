@@ -15,4 +15,31 @@ In 2022-23, I was a Student Researcher at Google Deepmind working with [Courtney
 
 I work on theoretical aspects of machine learning and optimization. 
 
+<h1>Pre-prints</h1>
+<ul>
+  <li>
+    <strong>Private Evolution Converges</strong><br>
+    Tomas Gonzalez, Giulia Fanti, Aaditya Ramdas<br>
+    <em>arXiv 2024</em><br>
+    <a href="https://arxiv.org/abs/2405.18973" target="_blank">[arXiv]</a>
+  </li>
+</ul>
+
+<h1>Publications</h1>
+<ul>
+  <li>
+    <strong>Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems </strong><br>
+    Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
+    <em>COLT 2024</em><br>
+    <a href="https://proceedings.mlr.press/v202/arora23a/arora23a.pdf" target="_blank">[PDF]</a>
+  </li>
+  <li>
+    <strong>Faster Rates of Convergence to Stationary Points in Differentially Private Optimization</strong><br>
+    Raman Arora, Raef Bassily, Tomas Gonzalez, Cristobal Guzman, Michael Menart, Enayat Ullah<br>
+    <em>ICML 2023r</em><br>
+    <a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf">[PDF]</a>
+  </li>
+</ul>
+
+
 
