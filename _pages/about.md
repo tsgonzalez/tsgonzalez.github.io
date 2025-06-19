@@ -30,12 +30,12 @@ Previously, I obtained my MSc in Engineering from the [Institute for Mathematica
 <h2>Publications</h2>
 <ul>
   <li>
-    <strong><a href="https://proceedings.mlr.press/v202/arora23a/arora23a.pdf" target="_blank">Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems</a> </strong><br>
+    <strong><a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf" target="_blank">Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems</a> </strong><br>
     Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
     <em>COLT 2024 </em><br>
   </li>
   <li>
-    <strong><a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf">Faster Rates of Convergence to Stationary Points in Differentially Private Optimization</a></strong><br>
+    <strong><a href="https://proceedings.mlr.press/v202/arora23a/arora23a.pdf">Faster Rates of Convergence to Stationary Points in Differentially Private Optimization</a></strong><br>
     Raman Arora, Raef Bassily, Tomas Gonzalez, Cristobal Guzman, Michael Menart, Enayat Ullah<br>
     <em>ICML 2023 </em><br>
   </li>
