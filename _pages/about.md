@@ -18,10 +18,15 @@ I work on theoretical aspects of machine learning and optimization.
 <h1>Pre-prints</h1>
 <ul>
   <li>
+    <strong>Sequentially Auditing Differential Privacy</strong><br>
+    Tomas Gonzalez, Mateo Dulce-Rubio, Aaditya Ramdas, Monica Ribero<br>
+    <em>Submitted 2025</em><br>
+  </li> 
+  <li>
     <strong>Private Evolution Converges</strong><br>
     Tomas Gonzalez, Giulia Fanti, Aaditya Ramdas<br>
-    <em>arXiv 2024</em><br>
-    <a href="https://arxiv.org/abs/2405.18973" target="_blank">[arXiv]</a>
+    <em>Submitted 2025 <a href="https://arxiv.org/abs/2405.18973" target="_blank">[ArXiv]</a> </em><br>
+    
   </li>
 </ul>
 
@@ -30,14 +35,12 @@ I work on theoretical aspects of machine learning and optimization.
   <li>
     <strong>Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems </strong><br>
     Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
-    <em>COLT 2024</em><br>
-    <a href="https://proceedings.mlr.press/v202/arora23a/arora23a.pdf" target="_blank">[PDF]</a>
+    <em>COLT 2024 <a href="https://proceedings.mlr.press/v202/arora23a/arora23a.pdf" target="_blank">[PDF]</a> </em><br>
   </li>
   <li>
     <strong>Faster Rates of Convergence to Stationary Points in Differentially Private Optimization</strong><br>
     Raman Arora, Raef Bassily, Tomas Gonzalez, Cristobal Guzman, Michael Menart, Enayat Ullah<br>
-    <em>ICML 2023r</em><br>
-    <a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf">[PDF]</a>
+    <em>ICML 2023 <a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf">[PDF]</a> </em><br>
   </li>
 </ul>
 
