@@ -20,7 +20,7 @@ Previously, I obtained my MSc in Engineering from the [Institute for Mathematica
     <em>Submitted</em><br>
   </li> 
   <li>
-    <strong><a href="https://arxiv.org/abs/2405.18973" target="_blank">Private Evolution Converges</a></strong><br>
+    <strong><a href="https://arxiv.org/pdf/2506.08312" target="_blank">Private Evolution Converges</a></strong><br>
     Tomas Gonzalez, Giulia Fanti, Aaditya Ramdas<br>
     <em>Submitted </em><br>
     
