@@ -11,7 +11,7 @@ I’m a PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/
 
 <h1>Research</h1>
 
-I’m broadly interested in the design and analysis of algorithms in machine learning, primarily under differential privacy constraints. I work on questions that I find both practically relevant and intellectually challenging. My research spans areas such as stochastic optimization, generative modeling, and aggregation for collective decision making, and draws on ideas from mathematical statistics and theoretical computer science to provide strong theoretical guarantees.
+I’m broadly interested in the algorithmic and statistical aspects of modern machine learning. I work on problems that I find practically relevant and intellectually challenging, approaching them from computational and statistical perspectives. My research spans areas such as optimization, generative AI, and aggregation for collective decision making, primarily under differential privacy constraints. I draw on ideas from mathematical statistics and theoretical computer science to provide strong theoretical guarantees.
 
 <h1>Preprints</h1>
 <ul>
