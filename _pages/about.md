@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in the [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University, co-advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/) and [Giulia Fanti](https://gfanti.github.io/). I’m broadly interested in the algorithmic and statistical aspects of modern machine learning. I work on problems that I find both practically relevant and intellectually challenging, with research spanning areas such as optimization, generative modeling, and aggregation for collective decision making, primarily under differential privacy constraints. I draw on ideas from mathematical statistics and theoretical computer science. 
+<p>
+  I’m a PhD student in the <a href="https://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> at Carnegie Mellon University, 
+  co-advised by <a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> and 
+  <a href="https://gfanti.github.io/" target="_blank">Giulia Fanti</a>, and a member of the 
+  <a href="http://statml.cs.cmu.edu/" target="_blank">StatML group</a>.
+</p>
+<p>
+  I’m broadly interested in the algorithmic and statistical aspects of modern machine learning. I work on problems that I find both practically relevant 
+  and intellectually challenging, with research spanning areas such as optimization, generative modeling, and aggregation for collective decision making, 
+  primarily under differential privacy constraints.
+</p>
 
 Previously, I obtained my MSc in Engineering from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) at the Catholic University of Chile, where I was advised by [Cristobal Guzman](https://sites.google.com/view/cguzman/). I was also a Student Researcher at Google DeepMind working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html).
 
