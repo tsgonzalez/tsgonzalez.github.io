@@ -19,7 +19,7 @@ redirect_from:
   primarily under differential privacy constraints.
 </p>
 
-Previously, I obtained my MSc in Engineering from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) at the Catholic University of Chile, where I was advised by [Cristobal Guzman](https://sites.google.com/view/cguzman/). I was also a Student Researcher at Google DeepMind working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html).
+Previously, I obtained my MSc from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) at the Catholic University of Chile, advised by [Cristobal Guzman](https://sites.google.com/view/cguzman/). I was also a Student Researcher at Google DeepMind working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html).
 
 <h1>Research</h1>
 <h2>Preprints</h2>
