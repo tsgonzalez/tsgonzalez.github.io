@@ -25,7 +25,7 @@ Previously, I obtained my MSc from the [Institute for Mathematical and Computati
 <h2>Preprints</h2>
 <ul>
   <li>
-    <strong>Sequentially Auditing Differential Privacy</strong><br>
+    <strong><a href="https://arxiv.org/pdf/2509.07055" target="_blank">Sequentially Auditing Differential Privacy</a></strong><br>  
     Tomas Gonzalez, Mateo Dulce-Rubio, Aaditya Ramdas, Monica Ribero<br>
     <em>Submitted</em><br>
   </li> 
