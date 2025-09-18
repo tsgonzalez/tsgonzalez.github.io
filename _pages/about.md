@@ -21,24 +21,25 @@ redirect_from:
 
 Previously, I obtained my MSc from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) at the Catholic University of Chile, advised by [Cristobal Guzman](https://sites.google.com/view/cguzman/). I was also a Student Researcher at Google working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html).
 
-<h1>Research</h1>
+<!--<h1>Research</h1>
 <h2>Preprints</h2>
+<ul>
+  
+</ul>-->
+
+<h1>Publications</h1> 
 <ul>
   <li>
     <strong><a href="https://arxiv.org/pdf/2509.07055" target="_blank">Sequentially Auditing Differential Privacy</a></strong><br>  
     Tomas Gonzalez, Mateo Dulce-Rubio, Aaditya Ramdas, Monica Ribero<br>
-    <em>Submitted</em><br>
+    <em>NeurIPS 2025</em><br>
   </li> 
   <li>
     <strong><a href="https://arxiv.org/pdf/2506.08312" target="_blank">Private Evolution Converges</a></strong><br>
     Tomas Gonzalez, Giulia Fanti, Aaditya Ramdas<br>
-    <em>Submitted </em><br>
+    <em>NeurIPS 2025</em><br>
     
   </li>
-</ul>
-
-<h2>Publications</h2>
-<ul>
   <li>
     <strong><a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf" target="_blank">Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems</a> </strong><br>
     Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
