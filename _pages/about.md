@@ -21,13 +21,13 @@ redirect_from:
 
 Previously, I obtained my MSc from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) at the Catholic University of Chile, advised by [Cristobal Guzman](https://sites.google.com/view/cguzman/). I was also a Student Researcher at Google working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html).
 
-<!--<h1>Research</h1>
-<h2>Preprints</h2>
+<h1>Research</h1>
+<!--<h2>Preprints</h2>
 <ul>
   
-</ul>-->
+</ul>
 
-<h1>Publications</h1> 
+<h2>Publications</h2> -->
 <ul>
   <li>
     <strong><a href="https://arxiv.org/pdf/2509.07055" target="_blank">Sequentially Auditing Differential Privacy</a></strong><br>  
