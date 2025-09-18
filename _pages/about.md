@@ -30,16 +30,16 @@ Previously, I obtained my MSc from the [Institute for Mathematical and Computati
 <h2>Publications</h2> -->
 <ul>
   <li>
-    <strong><a href="https://arxiv.org/pdf/2509.07055" target="_blank">Sequentially Auditing Differential Privacy</a></strong><br>  
-    Tomas Gonzalez, Mateo Dulce-Rubio, Aaditya Ramdas, Monica Ribero<br>
-    <em>NeurIPS 2025</em><br>
-  </li> 
-  <li>
     <strong><a href="https://arxiv.org/pdf/2506.08312" target="_blank">Private Evolution Converges</a></strong><br>
     Tomas Gonzalez, Giulia Fanti, Aaditya Ramdas<br>
     <em>NeurIPS 2025</em><br>
     
   </li>
+  <li>
+    <strong><a href="https://arxiv.org/pdf/2509.07055" target="_blank">Sequentially Auditing Differential Privacy</a></strong><br>  
+    Tomas Gonzalez, Mateo Dulce-Rubio, Aaditya Ramdas, Monica Ribero<br>
+    <em>NeurIPS 2025</em><br>
+  </li> 
   <li>
     <strong><a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf" target="_blank">Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems</a> </strong><br>
     Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
