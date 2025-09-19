@@ -15,7 +15,7 @@ redirect_from:
 </p>
 <p>
   I’m broadly interested in the algorithmic and statistical aspects of modern machine learning. I work on problems that I find both practically relevant 
-  and intellectually challenging, with research spanning areas such as optimization, generative modeling, and aggregation for collective decision making, 
+  and intellectually challenging, with research spanning areas such as optimization and generative modeling,
   primarily under differential privacy constraints.
 </p>
 
