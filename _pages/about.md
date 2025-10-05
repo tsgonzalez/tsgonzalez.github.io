@@ -43,7 +43,7 @@ Previously, I obtained my MSc from the [Institute for Mathematical and Computati
   <li>
     <strong><a href="https://proceedings.mlr.press/v247/gonzalez24a/gonzalez24a.pdf" target="_blank">Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems</a> </strong><br>
     Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
-    <em>To appear in SIAM Journal on Optimization </em><br>
+    <em>SIAM Journal on Optimization (To appear) </em><br>
     <em>COLT 2024 (Extended abstract) </em><br>
   </li>
   <li>
