@@ -11,7 +11,7 @@ redirect_from:
   I’m a PhD student in the <a href="https://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> at Carnegie Mellon University, 
   co-advised by <a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> and 
   <a href="https://gfanti.github.io/" target="_blank">Giulia Fanti</a>, and a member of the 
-  <a href="http://statml.cs.cmu.edu/" target="_blank">StatML group</a>.
+  <a href="http://statml.cs.cmu.edu/" target="_blank">StatML group</a>. My research is generously supported by the <a href="https://www.jpmorganchase.com/about/technology/research/ai" target="_blank">JP Morgan Chase AI</a> PhD Fellowship. 
 </p>
 <p>
   I’m broadly interested in the algorithmic and statistical aspects of modern machine learning. I work on problems that I find both practically relevant 
