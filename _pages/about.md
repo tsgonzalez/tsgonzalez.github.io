@@ -48,7 +48,7 @@ beyond sub-Gaussianity</a></strong><br>
   <li>
     <strong><a href="https://epubs.siam.org/doi/full/10.1137/24M1697268" target="_blank">Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems</a> </strong><br>
     Tomas Gonzalez, Cristobal Guzman, Courtney Paquette<br>
-    <em>SIAM Journal on Optimization 2026 </em><br>
+    <em>SIAM Journal on Optimization 2024 </em><br>
     <em>COLT 2024 (Extended abstract) </em><br>
   </li>
   <li>
