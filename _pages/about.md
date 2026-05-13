@@ -35,15 +35,11 @@ redirect_from:
   <a href="https://fa.bianp.net/pages/about.html" target="_blank">Fabian Pedregosa</a>.
 </p>
 
-Previously, I obtained my MSc from the [Institute for Mathematical and Computational Engineering](https://imc.uc.cl/) at the Catholic University of Chile, advised by [Cristobal Guzman](https://sites.google.com/view/cguzman/). I was also a Student Researcher at Google working with [Courtney Paquette](https://cypaquette.github.io/) and [Fabian Pedregosa](https://fa.bianp.net/pages/about.html).
-
 <h1>Research</h1>
-<!-- <h2>Preprints</h2>
-<ul>
-  
-</ul>
 
-<h2>Publications</h2> -->
+I’m broadly interested in the algorithmic and statistical aspects of modern machine learning. I work on problems that I find both practically relevant and intellectually challenging, with research spanning areas such as optimization and generative modeling, primarily under differential privacy constraints.
+  
+<h1>Publications</h1>
 <ul>
   <li>
     <strong><a href="https://arxiv.org/pdf/2511.03606" target="_blank">Vector-valued self-normalized concentration inequalities
