@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>
-<strong>I am spending summer 2026 as an intern at Google NYC under 
+<strong>I am spending summer 2026 as an intern at Google Research NYC under 
   <a href="http://www.mribero.com/" target="_blank">Monica Ribero</a>.</strong>
 </p>
 
