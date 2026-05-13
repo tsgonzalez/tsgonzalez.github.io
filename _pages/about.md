@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 <p>
+<strong>I am spending summer 2026 as an intern at Google NYC under 
+  <a href="http://www.mribero.com/" target="_blank">Monica Ribero</a>.</strong>
+</p>
+
+<p>
   I’m a PhD student in the 
   <a href="https://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> 
   at Carnegie Mellon University, co-advised by 
@@ -18,15 +23,11 @@ redirect_from:
   <a href="https://www.jpmorganchase.com/about/technology/research/ai" target="_blank">JPMorganChase AI PhD Fellowship</a>.
 </p>
 
-<p>
-  In 2026, I was a visiting graduate student in the 
-  <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning</a> 
-  program at the Simons Institute, and <strong>I am spending summer 2026 as an intern at Google NYC under 
-  <a href="http://www.mribero.com/" target="_blank">Monica Ribero</a>.</strong>
-</p>
 
 <p>
-  Before my PhD, I obtained my MSc from the 
+  I was a visiting graduate student in the 
+  <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning</a> 
+  program at the Simons Institute. Before my PhD, I obtained my MSc from the 
   <a href="https://imc.uc.cl/" target="_blank">Institute for Mathematical and Computational Engineering</a> 
   at the Catholic University of Chile, advised by 
   <a href="https://sites.google.com/view/cguzman/" target="_blank">Cristóbal Guzmán</a>. 
