@@ -31,7 +31,7 @@ redirect_from:
   <a href="https://imc.uc.cl/" target="_blank">Institute for Mathematical and Computational Engineering</a> 
   at the Catholic University of Chile, advised by 
   <a href="https://sites.google.com/view/cguzman/" target="_blank">Cristóbal Guzmán</a>. 
-  I was also a Student Researcher at Google, where I worked with 
+  I was also a Student Researcher at Google under
   <a href="https://cypaquette.github.io/" target="_blank">Courtney Paquette</a> and 
   <a href="https://fa.bianp.net/pages/about.html" target="_blank">Fabian Pedregosa</a>.
 </p>
