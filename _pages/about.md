@@ -20,8 +20,8 @@ redirect_from:
 
 <p>
   In 2026, I was a visiting graduate student in the 
-  <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning Program</a> 
-  at the Simons Institute, and I am spending the summer as a research intern at Google NYC under 
+  <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning</a> 
+  program at the Simons Institute, and I am spending the summer as a research intern at Google NYC under 
   <a href="http://www.mribero.com/" target="_blank">Monica Ribero</a>.
 </p>
 
