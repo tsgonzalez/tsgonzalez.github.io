@@ -25,9 +25,9 @@ redirect_from:
 
 
 <p>
-  I was a visiting graduate student in the 
+  Previously, I was a visiting graduate student in the 
   <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning</a> 
-  program at the Simons Institute. Before my PhD, I obtained my MSc from the 
+  program at the Simons Institute. I obtained my MSc from the 
   <a href="https://imc.uc.cl/" target="_blank">Institute for Mathematical and Computational Engineering</a> 
   at the Catholic University of Chile, advised by 
   <a href="https://sites.google.com/view/cguzman/" target="_blank">Cristóbal Guzmán</a>. 
