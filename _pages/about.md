@@ -7,34 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>
-<strong>I am spending summer 2026 as an intern at Google Research NYC under 
-  <a href="http://www.mribero.com/" target="_blank">Monica Ribero</a>.</strong>
-</p>
+<p> I’m a PhD student in the <a href="https://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> at Carnegie Mellon University, where I am co-advised by <a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> and <a href="https://gfanti.github.io/" target="_blank">Giulia Fanti</a>. I also co-organize the <a href="https://statml-reading-group.github.io/" target="_blank">StatML group</a>. My research is partially supported by the <a href="https://www.jpmorganchase.com/about/technology/research/ai" target="_blank">JPMorganChase AI PhD Fellowship</a>. </p>
 
-<p>
-  I’m a PhD student in the 
-  <a href="https://www.ml.cmu.edu/" target="_blank">Machine Learning Department</a> 
-  at Carnegie Mellon University, co-advised by 
-  <a href="https://www.stat.cmu.edu/~aramdas/" target="_blank">Aaditya Ramdas</a> and 
-  <a href="https://gfanti.github.io/" target="_blank">Giulia Fanti</a>, and a member of the 
-  <a href="http://statml.cs.cmu.edu/" target="_blank">StatML group</a>. 
-  My research is partially supported by the 
-  <a href="https://www.jpmorganchase.com/about/technology/research/ai" target="_blank">JPMorganChase AI PhD Fellowship</a>.
-</p>
-
-
-<p>
-  Previously, I was a visiting graduate student in the 
-  <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning</a> 
-  program at the Simons Institute. I obtained my MSc from the 
-  <a href="https://imc.uc.cl/" target="_blank">Institute for Mathematical and Computational Engineering</a> 
-  at the Catholic University of Chile, advised by 
-  <a href="https://sites.google.com/view/cguzman/" target="_blank">Cristóbal Guzmán</a>. 
-  I was also a Student Researcher at Google under
-  <a href="https://cypaquette.github.io/" target="_blank">Courtney Paquette</a> and 
-  <a href="https://fa.bianp.net/pages/about.html" target="_blank">Fabian Pedregosa</a>.
-</p>
+<p> In 2026, I interned at Google Research NYC, hosted by <a href="http://www.mribero.com/" target="_blank">Monica Ribero</a> and <a href="https://travisbarrydick.github.io/" target="_blank">Travis Dick</a>, and was a visiting graduate student in the <a href="https://simons.berkeley.edu/people/tomas-gonzalez-lara" target="_blank">Federated and Collaborative Learning</a> program at the Simons Institute at UC Berkeley. Previously, I received my MSc from the <a href="https://imc.uc.cl/" target="_blank">Institute for Mathematical and Computational Engineering</a> at the Catholic University of Chile, where I was advised by <a href="https://sites.google.com/view/cguzman/" target="_blank">Cristóbal Guzmán</a>. I was also a Student Researcher at Google Montreal, working with <a href="https://cypaquette.github.io/" target="_blank">Courtney Paquette</a> and <a href="https://fa.bianp.net/pages/about.html" target="_blank">Fabian Pedregosa</a>. </p>
 
 <h1>Research</h1>
 
