@@ -18,14 +18,20 @@ I’m broadly interested in the algorithmic and statistical aspects of modern ma
 <h2>Preprints</h2>
 <ul>
   <li>
-    <strong><a href="https://arxiv.org/pdf/2605.28952" target="_blank">Optimal Rates for Differentially Private Hypothesis
-Testing with E-values</a></strong><br>
-    Ben Jacobsen, Tomas Gonzalez, Gavin Brown, Kassem Fawaz, Aaditya Ramdas<br>
+    <strong><a href="https://arxiv.org/pdf/2609.26647" target="_blank">Statistical Rates for Entropic Optimal Transport in the
+Discrete to SubGaussian Regime</a></strong><br>
+    Tomas Gonzalez, Gonzalo Mena <br>
   </li>
 </ul>
   
 <h2>Publications</h2>
 <ul>
+  <li>
+    <strong><a href="https://arxiv.org/pdf/2605.28952" target="_blank">Optimal Rates for Differentially Private Hypothesis
+Testing with E-values</a></strong><br>
+    Ben Jacobsen, Tomas Gonzalez, Gavin Brown, Kassem Fawaz, Aaditya Ramdas<br>
+    <em>NeurIPS 2026</em><br>
+  </li>
   <li>
     <strong><a href="https://arxiv.org/pdf/2511.03606" target="_blank">Vector-valued self-normalized concentration inequalities
 beyond sub-Gaussianity</a></strong><br>
